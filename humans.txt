@@ -1,0 +1,31 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Author: John Wang
+  Site: http://johntwang.com
+  Twitter: johntwang
+  GitHub: https://github.com/jwang
+  Location: Cupertino, CA
+
+  Author: Mike King
+  Site: http://85pixels.com
+  Twitter: micjamking
+  GitHub: https://github.com/micjamking
+  Location: Honolulu, HI
+
+  Author: Chris Sass
+  Site: http://lupinedev.com/blog
+  Twitter: lupineDev
+  GitHub: https://github.com/LupineDev
+  Location: Honolulu, HI
+
+/* THANKS */
+  Names (& URL):
+  
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Jekyll, GitHub, Modernizr, jQuery
+  Source: https://github.com/aloharubyconf/aloharubyconf.github.com
